@@ -1,0 +1,170 @@
+    {
+        "monday": [
+            {
+                "name": "1.SAG AALU (VEGAN)",
+                "description": "Spinach and boiled potatoes in a spicy tomato-garlic- ginger onion sauce.",
+                "price": "9,00€"
+            },
+            {
+                "name": "2.PANEER MASALA",
+                "description": "Cream cheese in a spicy tomato-onion-garlic sauce.",
+                "price": "9,00€"
+            },
+            {
+                "name": "3.BUTTER CHICKEN(G,L)",
+                "description": "Herb yoghurt marinated and tandoori grilled chicken in tomato-butter-cream sauce.",
+                "price": "10,00€"
+            },
+            {
+                "name": "4.LAMB CHILLI (G, L)",
+                "description": "Stewed lamb tenderloin pieces with green pepper tomato onion chili in soy sauce",
+                "price": "10,00€"
+            },
+            {
+                "name": "5.PRAWN MASALA (G, L) ",
+                "description": "Shrimp and paprika in tomato-onion gun-garlic- chilli sauce.",
+                "price": "10,00€"
+            },
+            {
+                "name": "6.TODAY''S SPECIAL-- KHUKURAKO CHOOILA (G)",
+                "description": "Herb yoghurt marinated and tandoori grilled chicken in tomato-butter-cream sauce.",
+                "price": "12,00€"
+            }
+        ]
+    ,
+    
+        "tuesday": [
+            {
+                "name": "1. AALU GOBI (VEGAN)",
+                "description": "Fried potatoes, ginger, cauliflower and cumin in masala sauce.",
+                "price": "9,00€"
+            },
+            {
+                "name": "2. SAG PANEER (G)",
+                "description": "Spinach and cream cheese in cream-curry sauce.",
+                "price": "10,00€"
+            },
+            {
+                "name": "3. CHICKEN CREAM (G)",
+                "description": "Fried chicken breast fillets in tomato-cashew-coconut cream sauce.",
+                "price": "10,00€"
+            },
+            {
+                "name": "4. LAMB CURRY (G, L)",
+                "description": "Fried lamb pieces in spicy curry sauce",
+                "price": "10,00€"
+            },
+            {
+                "name": "5. NARIWAL PRAWN (G, L)",
+                "description": "Shrimp in coconut-flour-tomato cream sauce.",
+                "price": "10,00€"
+            },
+            {
+                "name": "6. TODAY''S SPECIAL BHALE KARAI SPECIAL (G) ",
+                "description": "Chicken breast marinated in tandoor ovenmarinated in yoghurt, cream cheese, cashew nuts, onion-garlic-ginger-tomato-cream-butter-sauce.",
+                "price": "12,00€"
+            }
+        ]
+    ,
+    
+        "wednesday": [
+            {
+                "name": "1. BHINDI MASALA (VEGAN)",
+                "description": "Fried okra, potatoes, mushrooms and peppers in a medium-flavored tomato-onion-garlic-ginger sauce.",
+                "price": "9,00€"
+            },
+            {
+                "name": "2. SHAHI PANEER (G)",
+                "description": "Cream cheese in tomato-butter-cream sauce Cottage cheese cooked in tomato-butter-cream sauce.",
+                "price": "10,00€"
+            },
+            {
+                "name": "3. CHICKEN SAG (G, L)",
+                "description": "Tandoori grilled chicken breast fillet, spinach-herb-ginger-garlic-onion-tomato-cream sauce.",
+                "price": "9,00€"
+            },
+            {
+                "name": "4. LAMB KORMA (G, L)",
+                "description": "Tandoori grilled chicken breast fillet, spinach-herb-ginger-garlic-onion-tomato-cream sauce.",
+                "price": "9,00€"
+            },
+            {
+                "name": "5. PRAWN CHILLI (G, L) ",
+                "description": "Tandoori grilled chicken breast fillet, spinach-herb-ginger-garlic-onion-tomato-cream sauce.",
+                "price": "9,00€"
+            },
+            {
+                "name": "6. TODAY''S SPECIAL KUKHURA TIKKA (G)",
+                "description": "Herb-yoghurt marinated and grilled chicken in a tandoor oven",
+                "price": "12,00€"
+            }
+        ]
+    ,
+    
+        "thursday": [
+            {
+                "name": "1. TOFU CHILI (VEGAN)",
+                "description": "Tofu and paprika in onion-ginger-tomato-chilli sauce.",
+                "price": "9,00€"
+            },
+            {
+                "name": "2. VEGETABLE KOFTA (G)",
+                "description": "Deep-fried cauliflower-potato- fresh cheese dumplings in spinach-curry cream sauce",
+                "price": "10,00€"
+            },
+            {
+                "name": "3. CHICKEN TIKKA MASALA (G)",
+                "description": "Herb-yogurt marinatedandtandoori grilled chicken fillets in tomato-onion-garlic-ginger-chili-masala sauce.",
+                "price": "10,00€"
+            },
+            {
+                "name": "4. GARLIC KHASI KARAHI (G)",
+                "description": "Braised lamb pieces in a spicy tomato-yogurt-garlic-ginger-curry sauce.",
+                "price": "10,00€"
+            },
+            {
+                "name": "5. MACHHA SAG (G)",
+                "description": "Fried pike fillet,(White fish) in spinach curry cream sauce.",
+                "price": "10,00€"
+            },
+            {
+                "name": "6. TODAY''S SPECIAL TANDOOR MIX MASALA (G)",
+                "description": "Herb-yogurt marinatedandtandoori grilled chicken fillets in tomato-onion-garlic-ginger-chili-masala sauce.",
+                "price": "14,00€"
+            }
+        ]
+    ,
+    
+        "friday": [
+            {
+                "name": "1. SAG TOFU (VEGAN)",
+                "description": "Tofu, ginger-garlic tomato in chilli spinach sauce.",
+                "price": "9,00€"
+            },
+            {
+                "name": "2. MALAI KOFTA (G)",
+                "description": "Cashew-potato-cream cheese-dumplings in tomato-butter cream sauce.",
+                "price": "10,00€"
+            },
+            {
+                "name": "3. CHICKEN PANEER (G)",
+                "description": "Fried chicken breast pieces and fresh cheese in tomato- coconut cream sauce.",
+                "price": "10,00€"
+            },
+            {
+                "name": "4. LAMB KOFTA MASALA (G, L)",
+                "description": "Lamb minced meat dumplings seasoned with cumin and coriander in a slightly hot tomato-onion-ginger sauce",
+                "price": "10,00€"
+            },
+            {
+                "name": "5. PRAWN KORMA (G)",
+                "description": "Shrimp in coconut-curry-cashew-tomato- white pepper-cream sauce.",
+                "price": "10,00€"
+            },
+            {
+                "name": "6. TODAY''S SPECIAL KHASI KHUKURA MASALA (G)",
+                "description": "Herb-yoghurt marinated and tandoori grilled chicken fillets and lamb grinder in a hot tomato-onion-ginger-masala sauce.",
+                "price": "12,00€"
+            }
+        ]
+    }

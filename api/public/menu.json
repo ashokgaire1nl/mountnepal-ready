@@ -1,0 +1,1066 @@
+{
+    "Starters":
+    [
+        {
+            "name":"1. VEGETABLE SOUP (G,L)",
+            "description":"Mixed vegetable soup.",
+            "price":"5,80€"
+        },
+        {
+            "name":"2. TOMATO SOUP (G)",
+            "description":"Magnified tomato soup.Thick creamy tomato soup.",
+            "price":"5,80€"
+        },
+        {
+            "name":"3. MOUNT SPECIAL SOUP",
+            "description":"Creamy soup with shrimps , small chicken fillets, lamb, mushrooms and noodles. Shrimps, small pieces of chicken fillet, lamb, mushrooms and noodles in creamy base.",
+            "price":"7,80€"
+        },
+        {
+            "name":"4. TOM YUM SOUP (G,L)",
+            "description":"Spicy soup, left with shrimps, mushrooms and coconut milk.      Tom yum spicy soup of king prawn and mushrooms with Coconut milk.",
+            "price":"8,00€"
+        },
+        {
+            "name":"5. MIX VEG PAKORA (G,L)",
+            "description":"Deep fried vegetable pie (including onion, potato, cauliflower, broccoli, house cheese). Served with mintuchutney.  Deep-fried gram-batter with onions, potato, cauliflower, bracauli pieces. Served with mint chutney.",
+            "price":"7,00€"
+        },
+        {
+            "name":"6. PANIR PAKORA (G)",
+            "description":"Pieces of cream cheese coated and fried with lentil flour. Served with mintuchutney.   Deep-fried gram-batter coated cottage cheese pieces. Served with mint chutney.",
+            "price":"7,00€"
+        },
+        {
+            "name":"7. PANIR TIKKA (G,L)",
+            "description":"Fried cream cheese pieces , onion, paprika, tomato in yogurt sauce. Served with mintuchutney.   Fried cottage cheese saute with onions, Capsicum, tomato and yogurt sauce. Served with mint chutney.",
+            "price":"8,00€"
+        },
+        {
+            "name":"8. VEGETABLE SAMOSA (L)",
+            "description":"Deep fried vegetable paste stuffed with potatoes and peas (2 pcs.). Served with tomato       chutney Deep fried crispy pastry stuffed with vegetables, potatoes and green Peas seasoned with spices (2 pcs.). Served with tomato chutney.",
+            "price":"7,00€"
+        },
+        {
+            "name":"9. CHICKEN FINGERS (L)",
+            "description":"Chicken strips glazed and fried with breadcrumbs.       Deep fried Breadcrumbs coated chicken fillet strips.",
+            "price":"6,00€"
+        },
+        {
+            "name":"10. CHICKEN PAKORA (G,L)",
+            "description":"Chicken fillet pieces coated and fried with lentil flour. Served with tomato chutney.  Deep fried gram batter coated chicken fillet pieces. Served with tomato chutney.",
+            "price":"7,80€"
+        },
+        {
+            "name":"11. PRAWN PAKORA (G,L)",
+            "description":"Deep fried prawns. Deep fried king prawns in gram-batter.",
+            "price":"8,00€"
+        },
+        {
+            "name":"12. PRAWNS SANDEKO (G,L)",
+            "description":"Spicy shrimps seasoned with lemon with chopped cucumbers, tomato and onion.   Lemon flavored spicy shrimps with chopped cucumber, tomato and onion.",
+            "price":"9,00€"
+        },
+        {
+            "name":"13. KUKHURA SANDEKO (G,L)",
+            "description":"Herb-yoghurt marinated, tandoori grilled and slightly  lemon-flavored chicken fillet strips with chopped cucumber, tomato and onion. Slightly lemon flavored tandoori-grilled, yoghurt-herb marinated chicken  Tenderloin strips with chopped cucumber, tomato and onion.",
+            "price":"7,80€"
+        },
+        {
+            "name":"14. LAMB SHEIKH KEBAB (G)",
+            "description":"Tandoor-fried lamb chop in pepper and onion  chili sauce. Served with mint chutney.",
+            "price":"10,00€"
+        },
+        {
+            "name":"15. CHICKEN SALAD (G)",
+            "description":"Salad with small chicken fillets,  lettuce, cucumber, tomato and paprika , marinated in herb-yoghurt and grilled in a tandoor oven .  Small pieces of tandoori-grilled yogurt-herb marinated chicken fillet, lettuce, cucumber, tomato and Capsicum.",
+            "price":"7,50€"
+        },
+        {
+            "name":"16. PRAWN SALAD (G,L)",
+            "description":"spicy shrimp flavored with lemon digested cucumber, tomato, and onion   Lemon flavored with spicy shrimps chopped cucumber, tomato and onion",
+            "price":"8,00€"
+        },
+        {
+            "name":"17. GREEN SALAD (G,L)",
+            "description":"Lettuce, cucumber, tomato, paprika. Lettuce, cucumber, tomato, Capsicum",
+            "price":"6,50€"
+        },
+        {
+            "name":"18. Alu Chop (G,L)",
+            "description":"Deep-fried potato patty. Served with tomato chutney.",
+            "price":"7,00€"
+        },
+        {
+            "name":"19. Khasi Sadeko (G,L)",
+            "description":"Slightly lemon-flavoured tandoori-grilled, yoghurt-herb marinated lamb tenderloin pieces with chopped cucumber,tomato,and onion.",
+            "price":"10,00€"
+        }
+    ],
+    "Vegetable":
+    [
+        {
+            "name":"1. SAG TOFU (G, L) (VEGAN)",
+            "description":"Tofu and spinach with ginger, garlic, in tomato-curry sauce.  Tofu and spinach in ginger, garlic, tomato-curry-sauce.",
+            "price":"13,50€"
+        },
+        {
+            "name":"2. BHINDI MASALA (G, L) (VEGAN)",
+            "description":"Fried okra, potato, paprika in a medium-flavored tomato-onion-garlic ginger sauce. Fried okra, potatoes, Capsicum in medium spicy tomato-onion-garlic-Ginger.",
+            "price":"14,50€"
+        },
+        {
+            "name":"3. ALU GOVI (G, L) (VEGAN)",
+            "description":"Fried potatoes, cauliflower and tomato cooked in ginger curry sauce.      Fried potatoes, cauliflower and tomato cooked in Ginger curry sauce.",
+            "price":"14,00€"
+        },
+        {
+            "name":"4. BAIGAN MASALA (G,L) (VEGAN)",
+            "description":"Fried eggplant, potatoes, tomatoes, ginger and garlic in masala sauce.  Fried aubergine, potatoes, with tomato, Ginger & garlic masala sauce.",
+            "price":"14,50€"
+        },
+        {
+            "name":"5. MUSHROOM MASALA (G,L) (VEGAN)",
+            "description":"Boiled with mushrooms, tomato, ginger and garlic in masala sauce.  Boiled mushrooms and tomato with Ginger garlic and masala sauce.",
+            "price":"14,20€"
+        },
+        {
+            "name":"6. ALU CHANA (G,L) (VEGAN)",
+            "description":"Potatoes and chickpeas in garlic-ginger masala sauce.   Potatoes and chickpeas with garlic-Ginger masala sauce.",
+            "price":"14,00€"
+        },
+        {
+            "name":"7. TOFU CHILI (VEGAN)",
+            "description":"Tofu and paprika in onion-ginger-tomato-chilli sauce. Tofu and Capsicum in onion- Ginger-tomato-chilli sauce.",
+            "price":"14,00€"
+        },
+        {
+            "name":"8. TOFU MASALA(G, L) (VEGAN)",
+            "description":"Tofu and paprika tomato - onion - chilli and soy sauce. Tofu and Capsicum in tomato-onion and soy sauce.",
+            "price":"14,00€"
+        },
+        {
+            "name":"9. MIX VEGETABLES (G,L) (VEGAN)",
+            "description":"Boiled potatoes, cauliflower, green beans, peas, paprika, masala in curry sauce.   Boiled potatoes, cauliflower, green beans, green peas, Capsicum in masala curry sauce.",
+            "price":"14,80€"
+        },
+        {
+            "name":"10. SAG AALU (G,L) (VEGAN)",
+            "description":"Spinach and boiled potatoes in a spicy tomato-garlic-ginger onion sauce.    Spinach and boiled potatoes in tomato-garlic-Ginger onion sauce.",
+            "price":"14,00€"
+        },
+        {
+            "name":"11. VEGETABLES KARAI (G)",
+            "description":"Cauliflower, potatoes, cream cheese, tomato-ginger-onion-curry-cream sauce.       Cauliflower, potato, cottage cheese, tomato-ginger-onion-curry cream sauce.   ",
+            "price":"16,80€"
+        },
+        {
+            "name":"12. SAG PANEER (G)",
+            "description":"Spinach and cream cheese in cream-curry sauce.  Fresh spinach and cottage cheese with creamy curry sauce.",
+            "price":"16,20€"
+        },
+        {
+            "name":"13. MALAHI KOFTA (G)",
+            "description":"Cashew-potato-cream cheese dumplings in tomato-butter-cream sauce.       Mashed potatoes, cottage cheese and cashew nut balls in smooth and mellow tomato-butter-cream sauce.",
+            "price":"15,50€"
+        },
+        {
+            "name":"14. PANEER CHILLI (G)",
+            "description":"Fried cream cheese and paprika in a strongly seasoned soy, tomato, ginger, garlic sauce. Fried fresh cottage cheese Capsicum in very spicy soya, tomato Ginger garlic sauce.",
+            "price":"16,00€"
+        },
+        {
+            "name":"15. SHAHI PANEER (G)",
+            "description":"Bread cheese in tomato-butter-cream sauce.       Cottage cheese cooked in tomato-butter-cream sauce.",
+            "price":"16,00€"
+        },
+        {
+            "name":"16. KARAHI PANEER (G)",
+            "description":"Fried cream cheese, peppers and onions in a spicy tomato chilli garlic ginger curry cream sauce.   Fresh cheese Capsicum and onion in spicy, tomato, chilli, Ginger-garlic curry cream sauce.",
+            "price":"15,50€"
+        },
+        {
+            "name":"17. VEGETABLE KOFTA (G)",
+            "description":"Deep fried cauliflower-potato-cream cheese dumplings in spinach-curry cream sauce  Deep fried vegetable balls consisting of cauliflower, potatoes and cottage cheese in spinach-curry-cream sauce.",
+            "price":"15,80€"
+        },
+        {
+            "name":"18. PANEER BUTTER MASALA (G)",
+            "description":"House cheese, onion, tomato, cashew nut, almond, in coconut cream sauce.      Cottage cheese with onion, tomato, cashew nuts, almonds in coconut and cream sauce.",
+            "price":"17,80€"
+        },
+        {
+            "name":"19. DAL MAKHANI (G)",
+            "description":"Stewed lentils in tomato-butter-cream sauce.      Stewed mixed lentils in tomato-butter-cream sauce.",
+            "price":"14,50€"
+        },
+        {
+            "name":"20. JHANEKO DAL (G) ",
+            "description":"Butter fried onion, garlic, ginger, coriander, tomato and braised lentils.    Stewed mixed lentils fried in butter with onion, garlic, ginger, coriander and tomatoes.",
+            "price":"14,50€"
+        },
+        {
+            "name":"21. MOUNT SPECIAL PANEER (G)",
+            "description":"House cheese, onion, tomato, cashew nut, almond, honey, coconut cream sauce. Cottage cheese with onion, tomato, cashew nuts, honey, almonds in Coconut cream sauce.",
+            "price":"17,00€"
+        },
+        {
+            "name":"22. Saag Kofta (G.L)",
+            "description":"Spinach balls in tomato,onion and curry cream sauce. ",
+            "price":"15,50€"
+        },
+        {
+            "name":"23. Hariyali paneer (G)",
+            "description":"Cottage cheese in mild spinach sauce.",
+            "price":"15,90€"
+        },
+        {
+            "name":"24. Chef special kofta  (G)",
+            "description":"Mashed potatoes, cottage cheese and cashew nut balls in smooth and mellow tomato-butter-cream, cheese, cashew-nut sauce.",
+            "price":"16,80€"
+        }
+    ],
+
+    "Chicken":[
+        {
+            "name":"1. CHICKEN CURRY (G, L)",
+            "description":"Chicken fillets in tomato-onion-curry sauce. Chicken fillet pieces in tomato-onion-curry sauce.",
+            "price":"14,80€"
+        },
+        {
+            "name":"2. GARLIC CHICKEN KARAHI (G)",
+            "description":"Braised chicken breast fillets and garlic-yogurt-tomato in curry sauce. Stewed chicken fillet pieces in garlic-yogurt-tomato-curry sauce.",
+            "price":"15,90€"
+        },
+        {
+            "name":"3. CHICKEN CREAM (G)",
+            "description":"Fried chicken breast fillets in tomato-cashew-coconut cream sauce.Stewed chicken fillet pieces in tomato-cashew-coconut-cream sauce.",
+            "price":"16,50€"
+        },
+        {
+            "name":"4. CHICKEN VINDALOO (G, L) ",
+            "price": "15,90€",
+            "description":"Fried chicken breasts with potatoes and tomatoes in a heavily seasoned chilli-onion-ginger-garlic sauce. Stewed chicken fillet pieces and potato-tomato in spicy chilli-onion- Ginger-garlic sauce."
+        },
+        {
+            "name":"5. CHICKEN TAMA (G, L)",
+            "description":"Fried chicken breasts and bamboo in a hot chilli-tomato-onion-ginger curry sauce. Stewed chicken fillet pieces and Bamboo shoots in hot chilli tomato-onion – Ginger-curry sauce.",
+            "price":"16,00€"
+        },
+        {
+            "name":"6. CHICKEN PANEER (G)",
+            "description":"Fried chicken breast pieces and fresh cheese in tomato-coconut cream sauce. Stewed chicken fillet pieces and coatage cheese tomato-coconut-cream sauce.",
+            "price":"16,40€"
+        },
+        {
+            "name":"7.MANGO CHICKEN (L, G)",
+            "description":"Braised chicken breast fillet pieces with mango tomato- ginger - garlic -butter in cream sauce. Stewed chicken breast pieces in mango tomato-ginger-garlic-butter cream sauce.",
+            "price":"16,50€"
+        },
+        {
+            "name":"8.CHICKEN MASALA(G,L)",
+            "description":"Stewed chicken fillet pieces in  spicy ginger ,onion tomato and masala sauce",
+            "price":"15,90€"
+        },
+        {
+            "name":"9.CHICKEN KARAHI(G,L)",
+            "description":"Stewed chicken fillet pieces in tomato,capsicum and onion sauce ",
+            "price":"16,90€"
+        },
+        {
+            "name":"10.CHICKEN ROGAN JOSH(G)",
+            "description":"Stewed chicken fillet pieces in tomato,yoghurt and onion chilli sauce",
+            "price":"16,50€"
+        },
+        {
+            "name":"11.Chef special chicken(G)",
+            "description":"Chicken fillet pieces in cashew,almonds ,cheese tomato and cream sauce.",
+            "price":"17,50€"
+        },
+        {
+            "name":"12.Spinach chicken (G.L)",
+            "description":"Stewed chicken fillet pieces in mild spinach sauce. ",
+            "price":"15,90€"
+        }
+    ],
+    "Lamb":[
+        {
+            "name":"1. LAMB CURRY (G, L)",
+            "description":"Fried lamb pieces in spicy curry sauce. Stewed lamb pieces in curry sauce.",
+            "price":"15,80€"
+        },
+        {
+            "name":"2. LAMB SAG (G, L)",
+            "description":"Braised lamb pieces in spinach-garlic-ginger-tomato-curry sauce.     Lamb fillet pieces in spinach-garlic-ginger-tomato-curry sauce.",
+            "price":"16,50€"
+        },
+        {
+            "name":"3. BUTTER LAMB (G)",
+            "description":"Lamb in butter, tomato, cashew, coconut and cream sauce.      Lamb cooked in butter, tomato, cashew, cocunut & cream sauce.",
+            "price":"17,50€"
+        },
+        {
+            "name":"4. LAMB KORMA (G)",
+            "description":"Braised lamb pieces in tomato-cashew coconut flour cream sauce. Stewed lamb pieces in tomato-cashew-Coconut powder & cream sauce.",
+            "price":"16,80€"
+        },
+        {
+            "name":"5. GARLIC KHASI KARAHI (G) ",
+            "description":"Braised lamb pieces in a spicy tomato-yogurt-garlic-ginger-curry sauce.   Stewed lamb in spicy tomato-yogurt-garlic-ginger in curry sauce.",
+            "price":"16,50€"
+        },
+        {
+            "name":"6. SPECIAL MIX KARAHI (G, L)",
+            "description":"Braised pieces of lamb with canary fillet, cream cheese-tomato-ginger in   garlic-coconut flour cream sauce. Stewed lamb, chicken fillet pieces and cottage cheese in tomato Ginger garlic cream sauce.",
+            "price":"18,50€"
+        },
+        {
+            "name":"7. LAMB KOFTA (G, L)",
+            "description":"Lamb minced   meat dumplings seasoned with cumin and coriander in a slightly hot tomato-onion-ginger-masala sauce.    Minced lamb meat balls seasoned with cumin and coriander in slightly spicy tomato-onion- Ginger-masala sauce.",
+            "price":"15,80€"
+        },
+        {
+            "name":"8. LAMB BUTTER MASALA (G, L)",
+            "description":"Braised lamb fillet, onion, tomato, cashew nut, almond, in coconut cream sauce.  Stewed lamb with onion, tomato, cashew nuts, almonds in coconut and cream-curry sauce.",
+            "price":"18,50€"
+        },
+        {
+            "name":"9. GINGER LAMB (G, L)",
+            "description":"Braised lamb pieces in ginger-garlic-onion-tomato paste sauce.   Stewed lamb pieces in Ginger-garlic-onion-tomato sauce.",
+            "price":"16,50€"
+        },
+        {
+            "name":"10. PIRO BHEDO (G, L)",
+            "description":"Browned paprika, chili and braised lamb chops in a very hot and       spicy onion-onion-soy-tomato sauce. Stewed Capsicum and chillies, and stewed lamb pieces in very hot and spice onion- garlic-soya - tomato - sauce.",
+            "price":"16,50€"
+        },
+        {
+            "name":"11. LAMB VINDALOO (G, L)",
+            "description":"Lamb chops with potatoes and tomatoes in a heavily seasoned chilli-onion-ginger-garlic sauce.   Lamb pieces and potato-tomato in spicy chilli-onion- Ginger-garlic sauce.",
+            "price":"16,90€"
+        },
+        {
+            "name":"12.LAMB Rogan josh (G)",
+            "description":"Browned paprika, chili and braised lamb chops in a very hot and       spicy onion-onion-soy-tomato sauce. Stewed Capsicum and chillies, and stewed lamb pieces in very hot and spice onion- garlic-soya - tomato - sauce.",
+            "price":"18,90€"
+        },
+        {
+            "name":"13.LAMB MASALA(G,L)",
+            "description":"stewed lamb meat  pieces in  spicy ginger ,onion tomato and masala sauce",
+            "price":"17,90€"
+        },
+        {
+            "name":"14. Lamb cream  Kofta (G)",
+            "description":"Minced lamb meatballs in onion,tomato,curry-cream sauce.",
+            "price":"16,50€"
+        },
+        {
+            "name":"15.Chef special lamb(G)",
+            "description":"Stewed lamb meat pieces in cashew,almonds ,cheese tomato and cream sauce.",
+            "price":"19,50€"
+        }
+    ],
+
+    "Thali":[
+        {
+            "name":"1. KASVIS-THALI",
+            "description":"Consists of six dishes., DAL FRY(G) Butter fried onion, garlic, ginger, coriander, tomato and braised lentils.Stewed lentils fried in butter with onion, garlic, ginger, coriander and tomatoes. SAG AALU (G, L)Spinach and boiled potatoes in a spicy tomato-garlic-ginger sauce.Spinach and boiled potatoes in spicy tomato-garlic-Ginger sauce.SHAHI PANEER (G) Bread cheese in tomato-butter-cream sauce.STRIPSweet and savory yoghurt sauce with grated cucumber and carrot. Seasoned with chat masalaSweet and salty yoghurt sauce consisting of grated cucumber and carrot seasoned with chat-masala.RICE AND NAAN BREAD",
+               
+                            
+            "price":"18,50€"
+        },
+        {
+            "name":"2. LIHA-THALI",
+            "description":
+                "Consists of six dishes,BHENDAKO CHILLY (G, L),Lamb fillets in tomato-onion-garlic, soy and chilli sauce.,BUTTER CHICKEN (G)",
+            
+            "price":"20,50€"
+        },
+        {
+            "name":"3. MIX THALI",
+            "description":
+                "Consists of seven dishes.,DAL FRY (G),Butter fried onion, garlic, ginger, coriander, tomato and braised lentils. Stewed lentils fried in butter with onion, garlic, ginger, coriander and tomatoes.",
+               
+              
+            "price":"21,90€"
+        }
+    ],
+    "TandooriChicken":[
+        {
+            "name":"1. ​​CHICKEN CHILLI (G, L)",
+            "description":"Deep-fried chicken fillets, peppers and chili in a thick spicy     garlic-onion-ginger-soy-chilli-tomato sauce. Deep fried chicken fillet- Capsicum and chilies in thick hot spicy garlic-onion-Ginger-soya-chilli-tomato sauce.",
+            "price":"16,50€"
+        },
+        {
+            "name":"2. CHICKEN SAG KARAHI (G)",
+            "description":    "Yoghurt marinated and tandoori grilled chicken breast fillet, spinach-cream-coconut-ginger in masala sauce.    Yoghurt marinated and tandoori grilled Chicken breast pieces with spinach in Coconut-cream-Ginger-curry sauce.",
+            
+            "price":"17,50€"
+        },
+        {
+            "name":"3. BHALE MALAI TIKKA (G)",
+            "description":      "Chicken breast marinated in tandoor oven marinated in     yogurt , cream cheese, cashew, onion-garlic-ginger-cream sauce. Herb & yogurt marinated Tandoori chicken, cheese, cashew nuts, onoion, garlic, ginger, cream sauce.",
+
+            "price":"18,50€"
+        },
+        {
+            "name":"4. KUKHURA CHHOILA (G, L)",
+            "description":"Herb-yogurt marinated and tandoori grilled chicken fillet slices and fried soybeans.   Seasoned with tomato, chili, clover seeds, cumin seeds, ginger, garlic,  coriander, mustard oil and lemon. Herb and yogurt marinated tandoor-oven grilled chicken fillet slices; and Soaked and fried soy beans seasoned   with tomato, chili, fenugreek seeds, cumin seeds, chopped ginger, garlic, coriander, mustard oil and lemon juice.",
+            "price":"17,00€"
+        },
+        {
+            "name":"5. BUTTER CHICKEN (G)",
+            "description":      "Herb-yoghurt marinated and tandoori-grilled chicken breast fillets in coconut-tomato-butter-cream sauce.  Herb and yogurt marinated Tandoori roasted chicken fillet pieces in Coconut tomato- butter cream sauce.",
+
+            "price":"16,80€"
+        },
+        {
+            "name":"6. CHICKEN TIKKA (G)",
+            "description":      "Chicken fillets marinated in herb-yoghurt and grilled in a tandoor oven. Herb and yogurt marinated, tandoori oven grilled chicken fillet pieces.",
+
+            "price":"16,80€"
+        },
+        {
+            "name":"7. CHICKEN TIKKA MASALA (G)",
+            "description":      "Herb-yogurt marinated and tandoori grilled chicken fillets in  tomato-onion-garlic-ginger-chili-masala sauce.       Tandoori-grilled herb-yoghurt marinated chicken fillet pieces in tomato-onion-garlic-ginger-chilli-masala sauce.",
+
+            "price":"16,50€"
+        },
+        {
+            "name":"8. CHICKEN SASLIK (G) ",
+            "description":"Chicken fillets marinated in herb-yoghurt and grilled in a tandoor oven in a spicy-paprika-onion- tomato-garlic-ginger-onion sauce. Herb and yoghurt marinated, tandoori-oven grilled chicken fillet pieces in paprika –ionion slice-spicy tomato-garlic-ginger- onion sauce.",
+            "price":"17,80€"
+        },
+        {
+            "name":"9. BHALE KARAI SPECIAL (G)",
+            "description":"Chicken breast marinated in tandoor oven marinated in yoghurt, cream cheese,   cashew nuts, onion-garlic-ginger-tomato-cream-butter-sauce. Herb and yogurt marinated tandoori chicken, cottage cheese, cashew nuts, onion, garlic, ginger, tomato cream-butter-sauce.",
+            "price":"18,50€"
+        },
+        {
+            "name":"10. CHICKEN BUTTER MASALA (G)",
+            "description":"Tandoori marinated chicken, onion, tomato, cashew nut, almond, in coconut masala sauce. Tandoori roasted chicken with onion, tomato, cashew nuts, almonds in coconut and masala sauce.",
+            "price":"19,00€"
+        },
+        {
+            "name":"11. BUTTER GARLIC DADDAY (G)",
+            "description":"Tandoori marinated chicken dart with garlic, capcisum, onion and butter cashew nut sauce.  Tandoori chicken tikka in garlic, capcisum, onion with butter cashew nut sauce.",
+            "price":"19,00€"
+        },
+        {
+            "name":"12. MOUNT SPECIAL CHICKEN (G)",
+            "description":"Chicken breast grilled in a tandoor oven marinated in herb yoghurt, tomato, cashew nut, honey, in cream sauce.  Herbs- yogurt marinated tandoori roasted chicken, tomato, honey, cashew in butter cream sauce.",
+            "price":"19,50€"
+        },
+        {
+            "name":"13.CHICKEN SHIRAZ (G)",
+            "description":"Herb  and yogurt marinated tandoor chicken fillet in onion,tomato,capsicum and cream sauce.",
+            "price":"18,90€"
+        }
+    ],
+    "TandooriLamb":
+    [
+        {
+            "name":"1. KHASI MASALA KARAHI (G)",
+            "description":"Grilled lamb tenderloin in tomato-whole-curry-masala cream sauce.  Grilled lamb tenderloin in tomato-coconut-curry-masala- cream sauce.",
+            "price":"19,50€"
+        },
+        {
+            "name":"2. KHASI KOSELI (G)",
+            "description":"Herb-yoghurt marinated and tandoori grilled lamb fillets and     cream cheese-tomato-butter-cream sauce. Tandoori-grilled herb-yoghurt marinated lamb tenderloin pieces and cottage cheese in tomato-butter-cream sauce.",
+            "price":"19,50€"
+        },
+        {
+            "name":"3. LAMB SEKUWA (G)",
+            "description":"Lamb fillets marinated in herb-yoghurt and grilled in a tandoor oven.     Herb and yoghurt marinated and tandoori grilled lamb tenderloin pieces with sautéed Capsicum, onion.",
+            "price":"20,00€"
+        },
+        {
+            "name":"4. LAMB TIKKA MASALA (G)",
+            "description":"Herb-yoghurt marinated grilled lamb tenderloin pieces and in paprika-tomato-ginger and onion sauce. Herb and yogurt marinated tandoori grilled lamb tenderloin pieces and Capsicum in spicy Ginger-tomato-onion-sauce.",
+            "price":"19,50€"
+        },
+        {
+            "name":"5. SHEIKH KEBAB MASALA",
+            "description":"Tandoori oven-grilled lamb chop, onion, ginger, garlic, with tomato-masala-curry sauce.     Minced lamb cooked in tandoori oven with onion, ginger, garlic, tomato masala-curry-sauce.",
+            "price":"19,00€"
+        },
+        {
+            "name":"6. CHEF''S TANDOOR MIX SIZZLER (G)",
+            "description":"Herb yoghurt marinated and   grilled in a tandoor oven with mutton, chicken breast and prawns fried with onions, peppers and tomatoes.       Herb and yogurt marinated tandoori grilled lamb,       chicken fillet and king prawns with deep fried  onion, Capsicum and tomato.",
+            "price":"24,50€"
+        }
+    ],
+    "SeaFood":[
+        {
+            "name":"1. FISH MASALA",
+            "description":"Fried pike fillet (White fish) in curry-white pepper-masala sauce.       Fried pike perch fillet (white fish) in curry -masala sauce.",
+            "price":"16,50€"
+        },
+        {
+            "name":"2. FISH KORMA (G)",
+            "description":"Fried pike fillet, (White fish) in coconut-curry-cashew-tomato-white pepper cream sauce.    Fried pike perch fillet (white fish) in Coconut-curry-cashew-tomato-white pepper-cream sauce.",
+            "price":"17,50€"
+        },
+        {
+            "name":"3. MACHHA SAG (G)",
+            "description":"Fried pike fillet, (White fish) in spinach curry cream sauce.      Fried pike perch fillet (white fish) with spinach curry cream sauce.",
+            "price":"17,00€"
+        },
+        {
+            "name":"4. FISH CHILLI (G)",
+            "description":"Fried pike fillet (White fish), fried in paprika and chili spicy  garlic-onion-ginger-tomato sauce  Fried pike perch fillet (white fish), sautéed Capsicum and chillies in spicy garlic-ginger- tomato sauce.",
+            "price":"16,50€"
+        },
+        {
+            "name":"6. SHAHI NARIWAL PRAWN (G)",
+            "description":"Giant prawns, in whole-tomato-herb-cream sauce.       King prawns in Coconut-tomato-herb-cream sauce.",
+            "price":"19,50€"
+        },
+        {
+            "name":"7. KING PRAWN SAG (G)",
+            "description": "cream-garlic-spinach-tomato-cream-curry sauce. King prawn in cream-garlic-spinach-tomato cream curry-sauce.",
+            "price":"19,50€"
+        },
+        {
+            "name":"8. PRAWN CHILLI (G, L)",
+            "description":      "Fried prawns with browned paprika and chili in a hot and    spicy garlic-onion-ginger-tomato sauce.  Fried king prawn with sautéed Capsicum and chillies in spicy garlic-onion-ginger- tomato-sauce",
+            "price":"19,50€"
+        },
+        {
+            "name":"9. PRAWN MASALA (G, L)",
+            "description":      "Giant prawns and peppers, tomatoes, onions, garlic and ginger in a well-seasoned coriander-garlic sauce.       King prawns and Capsicum with tomato, onion, garlic and ginger in hot spiced coriander-garlic sauce.",
+            "price":"19,50€"
+        },
+        {
+            "name":"10. GARLIC PRAWN KARAHI (G, L)",
+            "description":"Giant prawns in a spicy tomato-garlic-chili-curry sauce. King prawns in spicy tomato-garlic-chili-curry sauce.",
+            "price":"19,50€"
+        },
+        {
+            "name":"11. PRAWN TANDOOR (G)",
+            "description": "Herb-yoghurt marinated and grilled prawns grilled in a tandoor oven with browned peppers, tomatoes and onions. Herb and yogurt marinated, tandoori-oven grilled king prawns with sauteed Capsicum, tomato and onion.",
+            "price":"22,50€"
+        },
+        {
+            "name":"12. PRAWN SIZZLER (G, L)",
+            "description":"Giant prawns, tomato, onion & paprika, in ginger-chilli-coriander sauce       King Prawns, tomato, onion & Capsicum in Ginger-chilli-coriander sauce.",
+            "price":"22,00€"
+        },
+        {
+            "name":"13. SPECIAL BUTTER GARLIC PRAWN (G)",
+            "description":"Giant prawns, onion, tomato, paprika, butter, garlic in a hot cashew masala sauce. King prawn, onion, tomato, Capsicum butter and garlic in cashew-masala sauce.",
+            "price":"21,00€"
+        }
+    ],
+    "Noodles":
+    [
+        {
+            "name":"1. VEG CHOWMEIN (L)",
+            "description":      "Fried noodles and vegetables in soy sauce. Fried noodles and vegetables with soya sauce.",
+            "price":"14,00€"
+        },
+        {
+            "name":"2. MIX CHOWMEIN (L)",
+            "description":    "Fried noodles and tandoori grilled lamb chops, chicken pieces, prawns and vegetables with a very hot and inky chili soy sauce.  Fried noodles and tandoori oven grilled lamb pieces, chicken pieces, king prawns and vegetables with hot and spicy chilli-soya sauce.",
+            "price":"16,00€"
+        }
+    ],
+    "Momo":
+    [
+        {
+            "name":"1.VEG MOMO (L.V.) 10pcs*",
+            "description":"Wheat flour-coated steamed chopped mixed vegetables and tofu balls       seasoned with cumin, coriander, onion, ginger, garlic, soya and white pepper. Served with tomato sesame chutney. [preparation takes about 25 minutes]",
+            "price":"13,00€"
+        },
+        {
+            "name":"2.Chicken MOMO 10pcs (L)",
+            "description":"Wheat flour-coated steamed minced chicken meatballs seasoned with cumin, coriander,  Ginger, garlic, white pepper and soya sauce. Served with tomato sesame chutney.[preparation takes about 25 minutes]",
+            "price":"14,00€"
+        },
+        {
+            "name":"3.LAMB MOMO 10pcs (L)",
+            "description":"Wheat flour-coated steamed minced lamb meatballs seasoned with cumin, coriander, Ginger, garlic, white pepper and soya sauce. Served with tomato sesame chutney. [preparation takes about 25 minutes]",
+            "price":"15,00€"
+        }
+    ],
+    "AsianFood":
+    [
+        {
+            "name":"1.THAI RED CURRY",
+            "description":"Chicken, paprika, bamboo, mushroom, spicy red curry sauce, coconut cream. Chicken, Capsicum, Bamboo, mushroom, spicy red curry sauce, Coconut cream.",
+            "price":"16,50€"
+        },
+        {
+            "name":"2. GREEN CURRY",
+            "description":"Green curry, chicken, mushroom, bamboo, paprika, onion, spicy coconut cream. Green curry of chicken with mushroom, Bamboo, Capsicum, onion, Coconut cream.",
+            "price":"16,50€"
+        },
+        {
+            "name":"VEG BIRYANI (L, G)",
+            "description":"Seasoned and fried Basmati rice with seasonal vegetables with striped sauce. Spiced fried Basmati rice with vegetables of the season with raita sauce.",
+            "price":"15,50€"
+        },
+        {
+            "name":"CHICKEN BIRYANI (L, G)",
+            "description":      "Seasoned and fried Basmati rice and chicken with striped sauce. Spiced fried Basmati rice and chicken with raita-sauce.",
+            "price":"16,50€"
+        },
+        {
+            "name":"LAMB BIRYANI (L, G)",
+            "description":      "Seasoned and fried Basmati rice and lamb with striped sauce. Spiced fried Basmati rice and mutton with raita-sauce.",
+            "price":"17,50€"
+        }
+    ],
+    "Children":
+    [
+        {
+            "name":"1. CHICKEN KORMA (G)",
+            "description":      "Pasta with chicken breast and fresh cheese in tomato-cashew-coconut cream sauce.       Stewed chicken fillet pieces and cheese tomato-cashew-Coconut-cream sauce.",
+            "price":"9,00€"
+        },
+        {
+            "name":"2. CHICKEN TIKKA (G)",
+            "description":    "Chicken fillet pieces marinated in herb-yoghurt and grilled in a tandoor oven. Herb and yogurt marinated, tandoori oven grilled chicken fillet pieces.",
+            "price":"9,00€"
+        },
+        {
+            "name":"3. SHAHI PANEER (G)",
+            "description":      "cheese in tomato-butter-cream sauce.       Finnish cottage cheese in tomato-butter-cream sauce.",
+            "price":"9,00€"
+        },
+        {
+            "name":"5. BUTTER CHICKEN (G)",
+            "description":      "Chicken fillet pieces marinated in herb-yoghurt and grilled in a tandoori oven in tomato-butter-cream sauce.Tandoori-grilled herb-yogurt marinated chicken fillet pieces in tomato-butter-cream sauce.",
+            "price":"9,00€"
+        },
+        {
+            "name":"6. SHAHI PRAWN (G)",
+            "description":      "Shrimp in tomato-butter-cream sauce.      Shrimps in tomato-butter-cream sauce.",
+            "price":"10,00€"
+        },
+        {
+            "name":"7. LAMB CURRY (G, L)",
+            "description":      "Braised lamb pieces in tomato-onion-curry sauce.       Stewed lamb pieces in tomato-onion-curry sauce.",
+            "price":"10,00€"
+        },
+        {
+            "name":"8. CHICKEN FINGERS AND FRENCH FRIES (G, L)",
+            "description":      "Chicken strips coated with breadcrumbs and deep fried with french fries.       Deep fried Breadcrumbs coated chicken fillet strips and French fries.",
+            "price":"10,00€"
+        },
+        {
+            "name":"9. CHICKEN FINGERS (L)",
+            "description":      "Folk strips glazed and deep-fried with breadcrumbs.      Deep fried Breadcrumbs coated chicken fillet strips.",
+            "price":"6,00€"
+        },
+        {
+            "name":"10. FRENCH FRIES",
+            "description":"",
+            "price":"5,00€"
+        },
+        {
+            "name":"11. FRIED RICE (G, L)",
+            "description":      "Fried rice with shrimp or chicken. Fried rice with shrimps or chicken.",
+            "price":"9,00€"
+        }
+    ],
+    "SideDishes":
+    [
+        {
+            "name":"1.ALU GOBI PANEER (G)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"2.SAG TOFU (G, L, V)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"3. ALU BHINDI MASALA (G, L, V)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"4. SAAG PANEER (G)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"5.SHAHI PANEER (G)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"6.MALAI KOFTA (G)",
+            "description":"",
+            "price":"12,00€"
+        },
+        {
+            "name":"7.PANEER TIKKA MASALA (G)",
+            "description":"",
+            "price":"10,50€"
+        },
+        {
+            "name":"8.MIX VEGETABLE (G, L, V)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"9. DAL FRY (G)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"10.CHICKEN CURRY (G, L)",
+            "description":"",
+            "price":"9,00€"
+        },
+        {
+            "name":"11.GARLIC CHICKEN (G)",
+            "description":"",
+            "price":"9,50€"
+        },
+        {
+            "name":"12. METHI CHICKEN (G, L)",
+            "description":"",
+            "price":"9,50€"
+        },
+        {
+            "name":"13.CHICKEN KORMA (G)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"14.CHILLI CHICKEN (G)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"15.CHICKEN SAG KARAHI (G)",
+            "description":"",
+            "price":"9,00€"
+        },
+        {
+            "name":"16.CHICKEN TIKKA MASALA (G)",
+            "description":"",
+            "price":"11,00€"
+        },
+        {
+            "name":"17.CHICKEN TIKKA (G)",
+            "description":"",
+            "price":"12,00€"
+        },
+        {
+            "name":"18.BUTTER CHICKEN (G)",
+            "description":"",
+            "price":"12,00€"
+        },
+        {
+            "name":"19.LAMB CURRY (G, L)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"20.LAMB KORMA (G)",
+            "description":"",
+            "price":"12,00€"
+        },
+        {
+            "name":"21.LAMB KOFTA (G, L)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"22.LAMB SAG (G, L)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"23.LAMB CHILLI (G, L)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"24.GARLIC LAMB KARAHI (G)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"25.LAMB TIKKA MASALA (G)",
+            "description":"",
+            "price":"14,00€"
+        },
+        {
+            "name":"26.LAMB SEKUWA (G)",
+            "description":"15,00€",
+            "price":""
+        },
+        {
+            "name":"27.FISH CURRY (G, L)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"28.FISH KORMA (G)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"29.FISH SAG (G, L)",
+            "description":"",
+            "price":"11,00€"
+        },
+        {
+            "name":"30 .PRAWN PANEER (G)",
+            "description":"",
+            "price":"12,00€"
+        },
+        {
+            "name":"31.SHAHI PRAWN (G, L)",
+            "description":"",
+            "price":"12,00€"
+        },
+        {
+            "name":"32.MACHA CHILLI (G, L)",
+            "description":"",
+            "price":"10,00€"
+        },
+        {
+            "name":"33.PLAIN NAAN",
+            "description":"",
+            "price":"2,00€"
+        },
+        {
+            "name":"34.GARLIC NAAN",
+            "description":"",
+            "price":"3,00€"
+        },
+        {
+            "name":"35.RAITA",
+            "description":"Makea ja suolainen jogurttikastike, jossa raastettua kurkkua japorkkanaa. Maustettu chat-masalalla.",
+            "price":"3,00€"
+        },
+        {
+            "name":"36.BASMATI RICE ",
+            "description":"",
+            "price":"3,00€"
+        },
+        {
+            "name":"37. Tandoori roti (L)",
+            "description":      "Traditional tandoori wheat bread    Bread baked in a tandoori oven. Also available seasoned with garlic or cheese bread baked bread ",
+            "price":"2,00€"
+        },
+        {
+            "name":"38.PAPADUM (G,L)",
+            "description":"",
+            "price":"1,00€"
+        },
+        {
+            "name":"39.MINT SAUCE (G, L)",
+            "description":"Fresh mint with tomato, Ginger, garlic and chilli sauce.",
+            "price":"3,00€"
+        }
+    ],
+    "GroupMenu":
+    [
+        {
+            "name":"MENU KAHDELLE – MENU FOR TWO",
+            "description":
+               "APPETIZER, PRAWN SOUP (G, L), Creamy Shrimp Soup Shrimps soup with cream. OR, VEGETABLE PAKORA, MAIN COURSE - MAIN COURSE,SHAHI PANEER (G),Bread cheese in tomato-butter-cream sauce., Finish cottage cheese in tomato -butter-cream sauce.,CHICKEN TIKKA MASALA (G) ,Herb-yogurt marinated and tandoori grilled chicken fillets in a hot and spicy tomato-onion-garlic-ginger-chili-masala sauce.,  Tandoori-grilled herb-yogurt marinated chicken fillet pieces in hot & spicy tomato-onion-garlic-Ginger-chilli-masala sauce., DESSERT,Mango Lassi or Ice cream",
+            
+            "price":"49,50€"
+        },
+        {
+            "name":"MENU NELJÄLLE – MENU FOR FOUR",
+            "description":
+                "APPETIZER - APPETIZER,VEGPAKODA,Deep Fried Vegetable Pies. ( Potatoes, cauliflower and onion)  Or, HOT & SOUR SOUP (G, L), Hot and spicy lemon soup with chicken, bamboo, mushrooms and Papua     Spicy lemon-flavored soup with chicken , Bamboo shoots, mushrooms and bean, MAIN COURSE, SHAHI PANEER (G), Bread cheese in tomato-butter-cream sauce., Cottage cheese cooked in tomato-butter-cream sauce., PRAWN MASALA (G, L),Giant prawns and peppers, tomatoes, onions, garlic and ginger in a well-seasoned coriander-garlic sauce., King prawns and Capsicum with tomato, onion, garlic and ginger in hot spiced coriander-garlic sauce., LAMB CURRY (G) ,Braised Lamb Pieces, Garlic, In Ginger Sauce.  ,    Stewed lamb fillet pieces in garlic, Ginger sauce., CHICKEN TIKKA MASALA (G) , Tandoori grilled chicken breast pieces with tomato, masala and tandori in masala sauce. Tandoori grilled chicken breast pieces in tomato, masala & tandoori masalasauce., DESSERT - DESSERT,KULFI,Condensed milk with pistachio, almond, cashew, cardamom,    sugar and cream sauce     solidified recipe made of condensed milk, pistachio, almonds, cardamom, sugar and cream, OR,MANGO LASSI"
+            ,
+            "price":"99,90€"
+        }
+    ],
+    "Desserts":
+    [
+        {
+            "name":"MOUNT KERA",
+            "description":      "Fried banana in honey syrup topped with cream and ice cream.",
+            "price":"5,90€"
+        },
+        {
+            "name":"ICE CREAMS",
+            "description":"Three balls of strawberry OR vanilla OR mango ice cream with caramel or chocolate dressing.",
+            "price":"5,90€"
+        },
+        {
+            "name":"MIXED ICE CREAM",
+            "description":      "Three balls of ice creams (strawberry, vanilla and mango) in one portion.",
+            "price":"6,00€"
+        },
+        {
+            "name":"MITHO KERA",
+            "description":"Butter cooked banana with almonds, cream sauce, topped with cream and Ice-cream",
+            "price":"5,50€"
+        },
+        {
+            "name":"KULFI",
+            "description":"Condensed milk-parfait containing pistachio, almonds and cashew nut,mildly flavored with Cardamom.Frozen with pistachio, almond, cashew nut, lightly flavored with cardamom",
+            "price":"5,50€"
+        },
+        {
+            "name":"GULAB JAMUN",
+            "description":"Soft cheese ball stewed in cardamom syrup .",
+            "price":"4,90€"
+        },
+        {
+            "name":"GAJAR KA HALWA (G)",
+            "description":"Carrot pudding and vanilla ice cream. Contains whole milk.",
+            "price":"6,00€"
+        }
+    ],
+    "LASSI": [
+        {
+            "name": "Salt - Salt Lassi",
+            "price": "€ 4.00"
+        },
+        {
+            "name": "Sweet - Sweet Lassi",
+            "price": "€ 4.00"
+        },
+        {
+            "name": "Mango Lassi",
+            "price": "€ 4.00"
+        },
+        {
+            "name": "Banana - Banana Lassi",
+            "price": "€ 4.00"
+        },
+        {
+            "name": "Strawberry- Strawberry Lassi",
+            "price": "€ 4.00"
+        },
+        {
+            "name": "Mix- Lassi",
+            "price": "€ 5.00"
+        }
+        
+    ]
+,
+
+    "BEVERAGES": [
+        {
+            "name" : "",
+            "description": "0.33cl / 0.50cl"
+            
+        },
+        {
+            "name": "Fresh Juice - Fresh Juice",
+            "price": "€ 3.00"
+        },
+        {
+            "name": "Coffee, Black Tea, Green Tea",
+            "price": "€ 2.50"
+        },
+        {
+            "name": "Nepali Coffee, Tea",
+            "price": "€ 3.50"
+        },
+        {
+            "name": "Milk- Milk",
+            "price": "€ 2.00"
+        }
+        
+    ]
+,
+
+    "CIDER": [
+        {
+            "name": "Omean Cider 33cl (4.7%)",
+            "price": "€ 5.50"
+        },
+        {
+            "name": "Tentacle- Long Drink 33cl (5.5%)",
+            "price": "€ 5.50"
+        },
+        {
+            "name": "Bulmers Original 50cl (4.5%)",
+            "price": "€ 7.00"
+        },
+        {
+            "name": "Strongbow 25.7cl (5.3%) )",
+            "price": "€ 5.50"
+        }
+        
+        
+    ]
+,
+
+    "BEER": [
+        {
+            "name": "Non-alcoholic beer (Buckler / Heineken) 33cl",
+            "price": "€ 5.00"
+        },
+        {
+            "name": "III Beer Lapland Gold 33cl (4.5%)",
+            "price": "€ 5.00"
+        },
+        {
+            "name": "III Beer Lapland Gold 50cl (4.5%)",
+            "price": "€ 6.00"
+        },
+        {
+            "name": "IV Beer Lapland Gold 50cl (5.2%)",
+            "price": "€ 6.50"
+        },
+        {
+            "name": "IV Beer Lapland Gold 31,5cl (5,2%)",
+            "price": "5,00 € / Bottle"
+        },
+        {
+            "name": "III Beer Lapland Gold 31,5cl (4,5%)",
+            "price": "5,00 € / Bottle"
+        }
+        
+        
+    ]
+,
+
+    "EXTERNALBEER": [
+        {
+            "name": "Nepalilainen"
+            
+        },
+        {
+            "name": "Mount Everest Golden (5,0%) 33cl",
+            "price": "€ 6.00"
+        },
+        {
+            "name": "Nepal Ice Lager (5,5%) 33 cl",
+            "price": "€ 6.50"
+        },
+        {
+            "name": "Kathmandu 50cl /bottle (4,8%)",
+            "price": "€ 7.90"
+        },
+        {
+            "name": "Khukuri Lager (4,7%) 33cl",
+            "price": "€ 6.00"
+        },
+        {
+            "name": "Sherpa Golden Ale 50cl (4,5%)",
+            "price": "€ 7.90"
+        }
+        
+    ]
+,
+
+    "OTHERS": [
+        {
+            "name": "Krusovice imperial 50cl (5.0%)",
+            "price": "€ 7.50"
+        },
+        {
+            "name": "Krusovice Cerne 50cl (3.8%)",
+            "price": "€ 7.50"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+ "Starters": {
+    "1": "Kasviskeitto.",
+    "2": "Suurustettu tomaattikeitto.",
+    "3": "Katkarapuja, pieniä kanafileepaloja, lammasta,herkkusientä ja nuudeleita sisältävää kermainen keitto.",
+    "4": "Mausteinen keitto, jätti katkarapuja, herkusieniä ja kookos maitoa.",
+    "5": "Friteerattu kasvispiiras (sis sipulia, peruna, kukkakaali, parsakaali, talon juustoa). Tarjoillaan mintuchutneyn kanssa.",
+    "6": "Linssijauholla kuorrutettuja ja friteerattuja tuorejuustopaloja. Tarjoillaan mintuchutneyn kanssa.",
+    "7": "Paistettua tuorejuustopaloja, sipulia, paprikaa, tomaattia jogurttikastikkeessa. Tarjoillaan mintuchutneyn kanssa.",
+    "8": "Perunalla ja herneillä täytetty friteerattu kasvispasteija (2 kpl.). Tarjoillaan tomaattichutneyn kanssa",
+    "9": "Korppujauholla kuorrutettuja ja friteerattuja kanansuikaleita.",
+    "10": "Linssijauholla kuorrutettuja ja friteerattuja kanafilepaloja. Tarjoillaan tomaattichutneyn.",
+    "11": "Friteerattuja jättikatkarapuja.",
+    "12": "Sitruunalla maustettuja mausteisia katkarapuja pilkottujen kurkkujen, tomaatin ja sipulin kera.",
+    "13": "Yrtti-jogurttimarinoituja, tandoori-uunissa grillattuja ja hieman sitruunalla maustettuja kanan sisäfileesuikaleita pilkotun kurkkun,tomaattin ja sipulin kera.",
+    "14": "Tandoorissa paistettu lampaanjauhelihavarras, paprika- ja sipuli-chilikastikkeessa. Tarjoillaan minttu chutneyen kanssa.",
+    "15": "Salaatti, jossa yrtti-jogurttimarinoituja ja tandoori-uunissa grillattuja pieniä kanafileepaloja,    salaattia, kurkkua, tomaattia ja paprikaa.",
+    "16": "Sitruunalla maustettuja mausteisia katkarapuja pilkotun kurkun, tomaatin ja sipulin kera",
+    "17": "Salaattia, kurkkua, tomaattia, paprikaa.",
+    "18": "Friteerattua mausteinen peruna pihvi.",
+    "19": "Yrtti -joghurtimarinoituja,tandoori-uunissagraillattuja ja hieman sitrunalla maustettuja."
+  },
+  
+  "Momo": {
+    "1": "Höyrystettyjä ja maustetettyjä vihanneksia ja tofu, sipuli, valkosipuli, inkivääriä ja soija valkopippuri.Tarjoillaan tomaatti-seesami-chutneyn kanssa.[valmistus kestää noin 25 minuuttia]",
+    "2": "Höyrystettyjä kana  jauhelihalla täytettyjä nyttejä. Maustettu kuminalla, korianterilla, Sipullilla, valkosipulilla, inkiväärillä ja soija. Tarjoillaan tomaatti- seesami -chutneyn kanssa.[valmistus kestää noin 25 minuuttia]",
+    "3": "Höyrystettyjä  lammas jauhelihalla täytettyjä nyttejä. Maustettu kuminalla, korianterilla, Sipullilla, valkosipulilla, inkiväärillä ja soija. Tarjoillaan tomaatti- seesami -chutneyn kanssa.[valmistus kestää noin 25 minuuttia]"
+  },
+  "Vegetable": {
+    "1": "Tofua ja pinaatti inkivääria,valkosipulia, tomatti-curry-kastikkeessa.",
+
+    "2": "Paistettua okra, perunaa, paprikaa keskivahvasti maustetussa tomaatti-sipulivalkosipuli- inkiväärikastikkeessa.",
+
+    "3": "Paistettuja perunoita, kukkakaalia ja tomaattia inkivääri-currykastikkeessa kypsennettyinä.",
+
+    "4": "Paistettua munakoisoa, perunaa, tomaattia, inkivääriä ja valkosipulia masala-kastikkeessa.",
+
+    "5": "Keitty sieniä, tomattia, inkivääria sekävalkosipulilla masalakastikkeessa.",
+
+    "6": "Perunoita ja kikherneitä valkosipuli-inkiväri masala kastikkeessa.",
+
+    "7": "Tofu ja paprika sipuli- inkivääri- tomaatti- chilli kastikkeessa.",
+
+    "8": "Tofua ja paprika tomaatti -sipuli -chilli ja soija kastikkeessa.",
+
+    "9": "Keitettyä perunaa, kukkakaalia, vihreitä papuja, herneitä, paprika, masala currykastikkeessa.",
+
+    "10": "Pinaattia ja keitettyä perunaa mausteisessa tomaatti-valkosipuli-inkivääri- sipuli kastikkeessa.",
+
+    "11": "Kukkakaalia, perunaa, tuorejuustoa,tomatti-inkivääri-sipuli-curry-kerma-kastikkeessa.",
+
+    "12": "Pinaattia ja tuorejuustoa kerma-currykastikkeessa.",
+
+    "13": "Cashewpähkinä-peruna-tuorejuustopyöryköitä tomaatti-voi-kermakastikkeessa.",
+
+    "14": "Paistettua tuorejuustoa ja paprikaa voimakkaasti maustetussa soija, tomaati, inkivääri, valkosipuli-kastikkeessa.",
+
+    "15": "Leipäjuustoa tomaatti-voi-kermakastikkeessa.",
+
+    "16": "Paistettuja tuorejuustoa, paprikaa ja sipulia mausteisessa tomatti chilli valkosipuli inkivääri curry-kerma-kastikkeessa.",
+
+    "17": "Friteerattuja kukkakaali-peruna-tuorejuustopyöryköitä pinaatti-curry-kermakastikkeessa.",
+
+    "18": "Talon juustoa, sipulia, tomaattia, cashew pähkinää, mantellia, kookos-kermakastikkeessa.",
+
+    "19": "Haudutettuja linssejä tomaatti-voi-kermakastikkeessa.",
+
+    "20": "Voissa paistettua sipulia, valkosipulia, inkivääriä, korianteria, tomaattia ja haudutettuja linssejä.",
+
+    "21": "Talon juustoa, sipulia, tomaattia, cashew pähkinää, mantelia, hunaja, kookos-kermakastikkeessa.",
+
+    "22": "pinaattia Kasvispyöryköitä tomaatti,sipuli ja curry kermakastikkeessa.",
+
+    "23": "Tuorejuustoa miedossa pinaattikastikkeessa.     ",
+
+    "24": "Cashewpähkinä-peruna-tuorejuusto pyöryköitä tomaatti-voi-cashewpähkinä,juusto, kerma kastikkeessa."
+  },
+
+  "Chicken": {
+    "1": "Kanafileepaloja tomaatti-sipuli-currykastikkeessa. ",
+
+    "2": "Haudutettuja kanan rintafileepaloja ja valkosipuli-jogurtti-tomaatti currykastikkeessa.",
+
+    "3": "Paistettuja kanan rintafileepaloja tomatti -cashew -kookos kermakastikkeessa.",
+
+    "4": "Paistettua kanan rintafileepaloja perunaa ja tomaattia voimakaasti maustetussa chilli-sipuli-inkivääri-valkosipuli kastikkeessa.",
+
+    "5": "Paistettua kanan rintafileepaloja ja bambua tulisessa chilli-tomaatti-sipuli-inkivääri- currykastikkeessa.",
+
+    "6": "Paistettuja kanan rintafileepaloja ja tuore-juustoa tomaatti-kookoskermakastikkeessa.",
+
+    "7": "Haudutettuja kananrintaafile paloja mango tomatti- inkivääri – valkosipuli -voi kerma kastikkessa.",
+
+    "8": "Haudutettuja kanan fileepalat tulisessa inkivääri sipuli,tomaatti ja masalakastikkeessa.",
+
+    "9": "Haudutettuja kanan fileepalat tulisessa tomaatti paprika ja sipuli chili kastikkeessa. ",
+
+    "10": "Haudutettuja kanan fileepalat tulisessa tomaatti jogurtti ja Sipuli chili kastikkeessa.",
+
+    "11": " kanan fileepaloja cashew, mantelia,juusto,tomaatti ja kermakastikkeessa.",
+
+    "12": "Haudutetut kanan fileepalat miedossa pinaattikastikkeessa."
+  },
+  "Lamb": {
+    "1": "Paistettuja lampaan paloja mausteisessa currykastikkeessa.",
+
+    "2": "Haudutettuja lampaanpaloja pinaatti-valkosipuli-inkivääri-tomato-currykastikkeessa.",
+
+    "3": "Lammas, voi, tomatti, cashew, kookos ja kermakastikkeessa.",
+
+    "4": "Haudutettuja lampaan paloja tomaatti-cashew-kookosjauho- kermakastikkeessa.",
+
+    "5": "Haudutettuja lampaan paloja mausteisessa tomaatti- jogurtti-valkosipuli-inkivääri-curry-kastikkeessa.",
+
+    "6": "Haudutettuja lampaan paloja kanarintafileepaloja tuorejuustoa-tomaati-inkivääri valkosipuli- kookosjauho- kermakastikkeessa.",
+
+    "7": "Kuminalla ja korianterilla maustettuja lampaanjauhelihapyöryköitä hieman tulisessa tomaatti-sipuli- inkivääri-masalakastikkeessa.",
+
+    "8": "Haudutettua lammas file, sipulia, tomaattia, cashew pähkinää, mantellia, kookos-kermakastikkeessa.",
+
+    "9": "Haudutettuja lampaan paloja inkivääri -valkosipuli-sipuli-tomatti- masutekastikkeessa.",
+
+    "10": "Ruskistettua paprika, chilli ja haudutettuja lampaanpaloja hyvin tulisessa ja mausteisessa sipuli- valokosipuli-soija-tomaattikastikkeessa.",
+
+    "11": "Lampaan rintapaloja perunaa ja tomaattia voimakaasti maustetussa chilli-sipuli-inkivääri-valkosipuli kastikkeessa.",
+
+    "12": "Haudutettuja lampan paloja  tulisessa tomaatti jogurtti ja chilli kastikkeessa.",
+
+    "13": "Haudutettuja lampaan paloja tulisessa inkivääri sipuli,tomaatti ja masalakastikkeessa",
+
+    "14": "Lampaan jauhelihapyöryköitä sipuli,tomaatti ja curry kermakastikkeessa.",
+
+    "15": "Haudutettuja lampaan paloja cashew,manteli,justo,tomaatti ja kermakastikkeessa."
+  },
+  "TandooriChicken": {
+    "1": "Friteerattuja kanafileepaloja, paprikaa ja chiliä paksussa mausteisessa valkosipuli-sipuli-inkivääri – soija-chilli-tomaattikastikkeessa.",
+
+    "2": "Yogurtti marinoitu ja tandoori grillattu broilerin rintäfilettä, pinaatti-kerma-kookos-inkivääri masalakastikkeessa.",
+
+    "3": "Jogurtissa marinoituja tandoori-uunissa grillattuja broilerin rintafileitä, tuorejuustoa, cashewpähkinää, sipuli-valkosipuli-inkivääri-kerma-kastikkeessa.",
+
+    "4": "Yrtti-jogurttimarinoituja ja tandoori-uunissa grillattuja kanafileeviipaleita sekä paistettuja soijapapuja. Maustettu tomaatilla, chilillä, rohtosarviapilan siemenillä, kuminan siemenillä, inkiväärillä, valkosipulilla, korianterilla, sinappiöljyllä ja sitruunalla.",
+
+    "5": "Yrtti-jogurtti marinoituja ja tandoori- uunissa grilattuja kanan rintafilepaloja kookos-tomaatti-voi-kermakastikkeessa.",
+
+    "6": "Yrtti-jogurttimarinoituja ja tandoori-uunissa grillattuja kanafileepaloja.",
+
+    "7": "Yrtti-jogurttimarinoituja ja tandoori-uunissa grillattuja kanafileepaloja tomaatti-sipuli-valkosipuli-inkivääri-chili-masalakastikkeessa.",
+
+    "8": "Yrtti-jogurttimarinoituja ja tandoori-uunissa grillattuja kanafileepaloja mausteisessa-paprika-sipuli- tomaatti-valkosipuli-inkivääri-sipulikastikkeessa.",
+
+    "9": "Jogurtissa marinoituja tandoori-uunissa grillattuja broilerin rintafileitä, tuorejuustoa, cashewpähkinää, sipuli-valkosipuli-inkivääri- tomatti-kerma-voi-kastikkeessa.",
+
+    "10": "Tandoorimarinoituja kanaa, sipulia, tomaattia, cashew pähkinää, mantellia, kookos-masalakastikkeessa.",
+
+    "11": "Tandoorimarinoituja kanaa tikka valkosipulia, capcisum, sipuli ja voita cashew-pähkinäkastiketta.",
+
+    "12": "Yrtii-jogurtissa marinoituja tandooriuunissa grillattuja broilerin rintafileitä, tomattia, cashewpähkinä, hunaja, voikermakastikkeessa.",
+
+    "13": "Yrtti-jogurtissa marinoituja tandoorissa grillattuja kana fileepaloja sipuli,tomaatti,paprika,-ja kermakastikkeessa.",
+
+    "14": "Traditional tandoori wheat bread    Bread baked in a tandoori oven. Also available seasoned with garlic or cheese bread baked bread ",
+
+    "15": ""
+  },
+  "TandooriLamb": {
+    "1": "Grillattu, lampaan sisäfilee, tomatti-kokos-curry-masala-kermakastikkeessa.",
+
+    "2": "Yrtti-jogurttimarinoituja ja tandoori-uunissa grillattuja lampaan sisäfileepaloja ja tuorejuusto-tomaatti-voi-kermakastikkeessa.",
+
+    "3": "Yrtti-jogurttimarinoituja ja tandoori-uunissa grillattuja lampaan sisäfileepaloja.",
+
+    "4": "Yrtti-jogurttimarinoituja graillatuja lampaan sisäfileepaloja ja paprikatulisessa tomaatti- inkivääri-ja sipuli-kastikkeessa.",
+
+    "5": "Tandoori uunissa grillattua lampaan jauhelihavarrasta, sipuli, inkivääri, valkosipuli, tomaatti-masala-curry-kastikkeella.",
+
+    "6": "Yrti-jogurtti marinoituja ja tandoori-uunissa grillatuja lampaan sisäfileepaloja, kanan rintafileepaloja ja jättikatkarapuja paistet tua sipuleita, paprika ja tomaattia."
+  },
+  "SeaFood": {
+    "1": "Paistettua kuhafilettä (Valkoinen kala) curry-valkopippuri-masalakastikkeessa.",
+
+    "2": "Paistettua kuha filettä, (Valkoinen kala) kookos-curry-cashewpähkinä-tomaatti-valkopippurikerma-kastikkeessa.",
+
+    "3": "Paistettua kuha filettä, (Valkoinen kala) pinaatti-curry kermakastikkeessa.",
+
+    "4": "Paistettua kuha filettä (Valkoinen kala), paistettuja paprian ja chilin mausteisessa valkosipuli-sipuli-inkivääri-tomattikastikkessa",
+
+    "5": "Katkarapu ja tuorejuustopaloja cashew-jaujo-tomatti-voi-kermakastikkeessa.",
+
+    "6": "Jättikatkarapuja, kokos-tomaatti-yrti-kermakastikkeessa.",
+
+    "7": "Jättikatkarapuja kerma-valkosipuli-pinaatti-tomaatti-kerma-curry-kastikkeessa.",
+
+    "8": "Paistettua jättikatkarapuja ruskistetun paprikan ja chilin kera tulisessa ja mausteisessa valkosiouli-sipuli-inkivääri-tomaatti-kastikkeessa.",
+
+    "9": "Jättikatkarapuja ja paprikaa, tomaattia, sipulia, valkosipuli ja inkivääri hyvin maustetussa korianteri- valkosipulikastikkeessa.",
+
+    "10": "Jättikatkarapuja mausteisessa tomaatti-valkosipuli-chili-currykastikkeessa.",
+
+    "11": "Yrtti-jogurttimarinoituja ja tandoori-uunissa grillattuja jättikatkarapuja ruskistetun paprikan,tomaatin ja sipulin kera.",
+
+    "12": "Jättikatkarapuja, tomaattia, sipulia & paprikaa, inkivääri-chilli-korianteri-kastikkeessa.",
+
+    "13": "Jättikatkarapuja, sipulia, tomaattia, paprikaa, voita, valkosipulia tulisessa cashew-masalakastikkeessa."
+  },
+  "Noodles": {
+    "1": "Paistettua nuudelia ja vihanneksia soijakastikeessa.",
+
+    "2": "Paistettua nuudelia ja tandoori-uunissa grillattuja lampaanpaloja, kananpaloja, jättikatkarapuja sekä vihanneksia hyvin tulisella ja musteisella chili-soijakastikkeella."
+  },
+  "AsianFood": {
+    "1": "Kana, paprika, bambu, sieni, mausteinen punainen curry kastike, kookos kerma.",
+
+    "2": "Green curry, kana, sieni, bambu, paprikaa, sipulia, mausteinen kookos kerma.",
+
+    "3": "",
+    "4": "Maustettua ja paistettua basmati riisiä kauden kasviksilla raita-kastikkeen kera.",
+
+    "5": "Maustettua ja paistettua basmati riisiä ja kanaa raita-kastikkeen kera.",
+
+    "6": "Maustettua ja paistettua basmati riisiä ja lammasta raita-kastikkeen kera."
+  },
+  "Children": {
+    "1": "Pastettuja kanan rintafileepaloja ja tuore juustoa tomatti -cashew -kookos kermakastikkeessa.",
+
+    "2": "Yrtti-jogurttimarinoituja ja tandoori-uunissa grillattuja kanafileepaloja.",
+
+    "3": "Tuorejuustoa tomaatti-voi-kermakastikkeessa.",
+
+    "4": "Tuorejuustoa ja pinaatti, tomatti-curry- kermakastikkeessa.",
+
+    "5": "Yrtti-jogurttimarinoituja ja tandoori-uunissa grillattuja kanafileepaloja tomaatti-voi-kermakastikkeessa.",
+
+    "6": "Katkarapuja tomaatti-voi-kermakastikkeessa.",
+
+    "7": "Haudutettuja lampaanpaloja tomaatti-sipuli-currykastikkeessa.",
+
+    "8": "Korppujauholla kuorrutettuja ja friteerattuja kanasuikaleita ranskalaisilla.",
+
+    "9": "Korppujauholla kuorrutettuja ja friteerattuja kansansuikaleita.",
+
+    "10": "",
+    "11": "Paistettua riisiä katkaravuilla tai kanalla."
+  },
+  "SideDishes": {
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": "",
+    "7": "",
+    "8": "",
+    "9": "",
+    "10": "",
+    "11": "",
+    "12": "",
+    "13": "",
+    "14": "",
+    "15": "",
+    "16": "",
+    "17": "",
+    "18": "",
+    "19": "",
+    "20": "",
+    "21": "",
+    "22": "",
+    "23": "",
+    "24": "",
+    "25": "",
+    "26": "",
+    "27": "",
+    "28": "",
+    "29": "",
+    "30": "",
+    "31": "",
+    "32": "",
+    "33": "",
+    "34": "",
+    "35": "",
+    "36": "",
+    "37": "",
+    "38": "",
+    "39": "",
+    "40": "",
+    "41": "",
+    "42": "Sweet and savory yogurt sauce with grated cucumber and carrot. Seasoned with chat masala.",
+    "43": "",
+    "44": "Fresh mint with tomato, Ginger, garlic and chilli sauce. "
+  },
+  "Desserts": {
+    "1": "Paistettua banaania hunajasiirapissa jäätelön ja kermavaahdon.",
+
+    "2": "Kolme palloa mansikkajäätelöä TAI mangojäätelöä TAI vanillajäätelöa kinuski- tai suklaakastikkeella.",
+
+    "3": "Kolme palloa jäätelöä (mansikka , vanilja ja mango )yksi annos.",
+
+    "4": "Voi keittää banaani manteleita , kermakastikkeessa .jäätelön ja kermavaahdon.",
+
+    "5": "Jäädyke, jossa pistaasia, mantelia, cashew-pähkinää, kevyesti maustettu kardemummalla",
+    "6": "Soft cheese ball stewed in cardamom syrup  ",
+    "7": "Carrot pudding and vanilla ice cream. Contains whole milk."
+  }
+  
+}

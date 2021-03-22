@@ -1,0 +1,62 @@
+    {
+    
+    "monday":{
+    "1":"Pinaattia ja keitettyä perunaa mausteisessa tomaatti-valkosipuli- inkivääri- sipuli kastikkeessa.",
+    "2":      "Tuorejuustoa mausteisassa tomatti-sipulivalkosipuli kastikkeessa.",
+    "3":      "Yrtti jogurtti marinoitua ja tandoori uunissa grillattua kanaa tomaatti-voi-kermakastikkeessa.",
+    "4":      "Haudutettuja lampaan ulkofilee paloja vihreä paprika tomaatti sipuli chili soija kastikkeessa.",
+    "5":      "Katkarapuja ja paprika tomaatti- sipuliinkivääri-valkosipuli- chilli kastikkeessa.",
+    "6":      "Yrtti-jogurtti marinoituja ja tandoori uunissa grillattuja kanafileeviipaleita sekä paistettuja soijapapuja. Maustettu tomaatilla, vihreällä chilillä, rohtosarviapilan siemenillä, kuminan siemenillä, inkiväärillä, valkosipulilla, korianterilla, sinappiöljyllä ja sitruunalla."  
+  },
+  "tuesday": {
+    "1": "Paistettu perunaa, inkivääriä, kukkakaalia ja kuminaa masala kastikkeessa.",
+
+    "2": "Pinaattia ja tuorejuustoa kerma-currykastikkeessa.",
+
+    "3": "Paistettuja kanan rintafileepaloja tomatti -cashew -kookos kermakastikkeessa.",
+
+    "4": "Paistettuja lampaan paloja mausteisessa currykastikkeessa.",
+
+    "5": "Katkarapu kookospähkinä-jauho-tomattivoi- kermakastikkeessa.",
+
+    "6": "Jogurtissa marinoituja tandoori-uunissa grillattuja broilerin rintafileitä, tuorejuustoa, cashewpähkinää, sipuli- valkosipuli-inkivääri- tomatti- kerma-voi-kastikkeessa.."
+  },
+  "wednesday": {
+    "1": "Paistettua okra, perunaa, herkkusientä ja paprika keskivahvasti maustetussa tomaatti-sipuli-valkosipuli-inkiväärikastikkeessa.",
+
+    "2": "Tuorejuustoa tomaatti-voi-kermakastikkeessa.",
+
+    "3": "Tandoori grillattu broilerin rintäfilettä,pinatti-yrtti-inivääri- valkosipuli-sipulitomatti- kermakasttikkeessa.",
+
+    "4": "Haudutettuja lampaan paloja tomaatti-cashew-kookosjauho- currykermakastikkeessa.",
+
+    "5": "Paistettua jätti katkarapuja, sipulia ja paprikaa vahvassa tomaatti- valkosipuli- chillikastikkeessa.",
+
+    "6": "Yrtti-jogurtti marinoituja ja tandooriuunissa grillattua kanaa."
+  },
+  "thursday": {
+    "1": "Tofu ja paprika sipuli- inkivääri- tomaatti- chilli kastikkeessa.",
+
+    "2": "Friteerattuja kukkakaali-peruna- tuorejuustopyöryköitä pinaatti- curry-kermakastikkeessa",
+
+    "3": "Yrtti-jogurttimarinoituja ja tandoori-uunissa grillattuja kanafileepaloja tomaatti-sipuli-valkosipuli-inkivääri-chili-masalakastikkeessa.",
+
+    "4": "Haudutettuja lampaan paloja mausteisessa tomaatti- jogurtti-valkosipuli-inkivääri- curry-kastikkeessa.",
+
+    "5": "Paistettua kuha filettä,(Valkoinen kala) pinaatti-curry kermakastikkeessa.",
+
+    "6": "Yrtti-jogurttimarinoituja ja tandooriuunissa grillattuja kanan rintafileepaloja, paistettuja lampaan ja jättikatkarapuja mausteisessa tomaatti-inkivääri-sipulikastikkeessa."
+  },
+  "friday": {
+    "1": "Tofua, inkivääriä-valkosipulia- tomaatti chilli pinattikastikkeessa.",
+    "2": "Cashewpähkinä-peruna- tuorejuusto-pyöryköitä tomaatti-voi kermakastikkeessa.",
+
+    "3": "Paistettuja kanan rintafileepaloja ja tuore-juustoa tomaatti- kookos-kermakastikkeessa.",
+
+    "4": "Kuminalla ja korianterilla maustettuja lampaan jauheliha pyöryköitä hieman tulisessa tomaatti-sipuli- inkivääri- masalakastikkeessa.",
+
+    "5": "Katkarapuja kookos-curry-cashewpähkinä-tomaatti- valkopippuri-kermakastikkeessa.",
+
+    "6": "Yrtti-jogurtti marinoituja ja tandoori uunissas grillattuja kanafileepajoja ja lampaan jauhelijaa tulisessa tomatti- sipuli-inkivääri-masala-kastikkeessa."
+  }
+}
